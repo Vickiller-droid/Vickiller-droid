@@ -56,9 +56,13 @@ I'm interested in:
 
 ## 📈 GitHub Stats
 
-![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vickiller-droid&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vickiller-droid&show_icons=true&theme=tokyonight" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vickiller-droid&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vickiller-droid&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
