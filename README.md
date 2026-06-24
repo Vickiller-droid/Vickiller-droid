@@ -1,5 +1,5 @@
 <h1 align="center">
-Hi 👋, I'm Victor Daniel
+Victor Daniel
 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
 </h1>
 
