@@ -1,7 +1,7 @@
 <h1 align="center">
-Hi, I'm Victor Daniel 🙂
+Hi, I'm Victor Daniel
 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
-</h1>
+</h1> 🙂
 
 <h3 align="center">
 Go Developer • Web Developer in Progress • Always on the Go
