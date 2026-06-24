@@ -4,7 +4,7 @@ Hi 👋, I'm Victor Daniel
 </h1>
 
 <h3 align="center">
-Go Developer • Web Developer in Progress
+Go Developer • Web Developer in Progress • Always on the Go
 </h3>
 
 <p align="center">
