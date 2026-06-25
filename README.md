@@ -19,9 +19,3 @@ Go Developer • Web Developer in Progress • Always on the Go
 <img width="450" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </p>
 
-┌──────────────────────────┐
-      Victor Daniel (Vickiller)
-      Go Developer
-      Web Developer
-      Open Source Enthusiast
-└──────────────────────────┘
